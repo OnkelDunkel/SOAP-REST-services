@@ -10,7 +10,7 @@ function prepare_sandwich(args) {
     let pbType = args.crunchy ? "crunchy": "creamy";
     let jellyType = args.jellytype;
     return {
-        result: `${sandwich} with ${pbType} peanutbutter and ${jellyType}`
+        result: `${sandwich} with ${pbType} peanutbutter and ${jellyType} jelly`
         }
 }
 
