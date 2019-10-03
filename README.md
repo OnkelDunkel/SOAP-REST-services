@@ -2,8 +2,6 @@
 
 Author: Rasmus Nordbjærg
 
-Note to reviewer: I am most likely not going to read your review so please don't bother spending time on it ;)
-
 ## The business
 
 The business makes peanutbutter jelly sandwiches which consists of bread and topping (So basically we combine text strings). The bread and the topping are of course 'made' in each of their web service. We get the bread from a REST service and we get the topping from the SOAP. Both services runs locally on your machine.
