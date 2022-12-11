@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/OnkelDunkel/SOAP-REST-services#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
